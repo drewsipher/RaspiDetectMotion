@@ -1,0 +1,3 @@
+/home/drew/src/RaspiDetectMotion/build/CMakeFiles/camDetect.dir
+/home/drew/src/RaspiDetectMotion/build/CMakeFiles/edit_cache.dir
+/home/drew/src/RaspiDetectMotion/build/CMakeFiles/rebuild_cache.dir

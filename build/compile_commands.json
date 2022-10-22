@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/drew/src/RaspiDetectMotion/build",
+  "command": "/usr/bin/c++  -isystem /home/drew/src/RaspiDetectMotion/dependencies/ubuntu-22.04/x86_64/opencv/include/opencv4 -g -std=gnu++17 -o CMakeFiles/camDetect.dir/main.cpp.o -c /home/drew/src/RaspiDetectMotion/main.cpp",
+  "file": "/home/drew/src/RaspiDetectMotion/main.cpp"
+}
+]
